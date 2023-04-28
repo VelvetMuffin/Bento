@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Amazon',
-			icon: 'shoppping-bag',
+			icon: 'shoppping-cart',
 			link: 'https://amazon.in',
 		},
 		{
