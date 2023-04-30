@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Velvet',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: true,
 
 	// Greetings
@@ -162,11 +162,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Lutris',
-					link: 'https://www.lutris.net',
+					link: 'https://lutris.net/',
 				},
 				{
 					name: 'Html5',
-					link: 'https://www.html5test.com',
+					link: 'https://html5test.com/',
 				},
 				{
 					name: 'FireFoxCSS',
