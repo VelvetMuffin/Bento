@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Amazon',
-			icon: 'shoppping-cart',
+			icon: 'shopping-cart',
 			link: 'https://amazon.in',
 		},
 		{
@@ -169,11 +169,11 @@ const CONFIG = {
 					link: 'https://html5test.com/',
 				},
 				{
-					name: 'FireFoxCSS',
+					name: 'FireFox CSS',
 					link: 'https://firefoxcss-store.github.io/#',
 				},
 				{
-					name: 'SonicTheHedgehog',
+					name: 'Sonic The Hedgehog',
 					link: 'https://www.reddit.com/r/SonicTheHedgehog/',
 				},
 			],
