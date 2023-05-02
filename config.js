@@ -139,11 +139,11 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'XDA',
+					name: 'XDA Developers',
 					link: 'https://www.xda-developers.com/',
 				},
 				{
-					name: 'Android',
+					name: 'Android Police',
 					link: 'https://www.androidpolice.com/',
 				},
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'binary',
+			icon: 'globe-2',
 			id: '2',
 			links: [
 				{
