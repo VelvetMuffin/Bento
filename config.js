@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-cart',
-			link: 'https://amazon.in',
+			name: 'NextDNS',
+			icon: 'shield',
+			link: 'https://my.nextnds.io',
 		},
 		{
 			id: '5',
