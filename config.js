@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'NextDNS',
 			icon: 'shield',
-			link: 'https://my.nextnds.io',
+			link: 'https://nextnds.io',
 		},
 		{
 			id: '5',
